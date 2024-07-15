@@ -11,5 +11,5 @@ Como utilizar: <br>
 1. Baixe o projeto java<br>
 2. implemente o Gson<br>
 3. Altere sua chave do Exchangerate<br>
-4. Inicie o programa e escolha a alternativa desejada<br>
+4. Inicie o programa e escolha a alternativa desejada
 
