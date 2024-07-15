@@ -6,10 +6,10 @@ Challenge Conversor de moedas _ ALURA ONE T6 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 
-## :moneybag:     Cambio     :moneybag:
+<h2> :moneybag:     Cambio     :moneybag: </h2>  
 Como utilizar: <br>
-1. Baixe o projeto java
-2. implemente o Gson
-3. Altere sua chave do Exchangerate
-4. Inicie o programa e escolha a alternativa desejada
+1. Baixe o projeto java<br>
+2. implemente o Gson<br>
+3. Altere sua chave do Exchangerate<br>
+4. Inicie o programa e escolha a alternativa desejada<br>
 
